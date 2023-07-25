@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be7b1294-ebbe-41d7-8abf-fcee8b2668b4" name="Changes" comment="spider changes">
-      <change beforePath="$PROJECT_DIR$/pdfbooks/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/pdfbooks/scrapy.cfg" afterDir="false" />
+    <list default="true" id="be7b1294-ebbe-41d7-8abf-fcee8b2668b4" name="Changes" comment="Shell Config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690327415672</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Shell Config">
+      <option name="closed" value="true" />
+      <created>1690327679207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690327679207</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -155,6 +163,7 @@
     <MESSAGE value="changes" />
     <MESSAGE value="spider creation" />
     <MESSAGE value="spider changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="spider changes" />
+    <MESSAGE value="Shell Config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shell Config" />
   </component>
 </project>
