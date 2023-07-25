@@ -1,1 +1,1 @@
-#selenium and scripy
+from selenium import webdriver
