@@ -11,7 +11,7 @@ class PdfspiderSpider(scrapy.Spider):
 
         for book in books:
             yield {
-                "Title" : book.css('.file-right a h2::text').get(),
+                "Name" : book.css('.file-right a h2::text').get(),
                 "Pages" : book.css('.file-info .fi-pagecount::text').get(),
                 "Year" : book.css('.file-info .fi-year::text').get()
 
