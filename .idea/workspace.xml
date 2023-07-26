@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690332214034</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="15 books">
+      <option name="closed" value="true" />
+      <created>1690332224485</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690332224485</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="UnknownFeatures">
